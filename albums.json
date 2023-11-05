@@ -1,31 +1,6 @@
-{"albums" : [
-    {"Artist": "Motty Steinmetz",
-     "Album_name": "Haneshama Bekirbi",
-     "Year": 2017
-    },
-    
-    {"Artist": "Avigdor Felder",
-     "Album_name": "Geshmack to be a yid",
-     "Year": 1998
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-]
-
-
-
-
+{"Artist": [ "Motty Steinmetz","Avigdor Felder" ] ,
+"Album_name": ["Haneshama Bekirbi", "Song Example"] ,
+"Year": [ 2017, 2018 ]
 }
 
 
